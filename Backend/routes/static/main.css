@@ -1,0 +1,19 @@
+body{
+	font-family: sans-serif;
+	background-color: #ADEFD1
+}
+
+.header{
+	position: relative;
+	color: white;
+	height: 100px;
+	text-align: center;
+	background-color: #00203F;
+}
+
+.body{
+	text-align: center;
+}
+h1{
+	padding-top: 30px;
+}
